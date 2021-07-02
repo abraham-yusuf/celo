@@ -1,0 +1,6 @@
+build
+contracts
+migrations
+test
+.env
+node_modules
