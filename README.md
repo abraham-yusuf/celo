@@ -20,3 +20,6 @@ and don't forget edit your API KEY in .env file
 
 
 and follow the steps below
+
+
+https://learn.figment.io/network-documentation/celo/tutorial/intro-pathway-celo-basics
