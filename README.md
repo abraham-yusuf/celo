@@ -4,6 +4,19 @@ you can clone this repository
 cd or change directory, in your root folder you need install dependencies.
 
 npm install
+
+
 then you need to install truffle
+
+
 npm install -g truffle
+
+
+then
+
+cp .env.example .env
+
+and don't forget edit your API KEY in .env file
+
+
 and follow the steps below
